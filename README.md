@@ -1,39 +1,80 @@
-Indian Airlines Performance & Business Intelligence Dashboard | Power BI
+# ✈️ Indian Airlines Performance Analysis 
 
-🔍 Objective:
+## 📌 Project Overview
 
-Developed an interactive Power BI dashboard to analyze and compare the performance of major Indian airlines across passenger traffic, operational efficiency, customer ratings, and estimated profitability.
+The **Indian Airlines Performance Analysis Dashboard** is an interactive Business Intelligence solution developed using Microsoft Power BI to analyze and compare the performance of major Indian airlines.
 
-Aimed to transform airline performance data into meaningful insights to support data-driven business analysis and performance benchmarking.
+The project focuses on passenger traffic, customer satisfaction, operational efficiency, environmental impact, and estimated profitability. It transforms airline data into meaningful insights through interactive visualizations, dynamic KPIs, and comparative analysis.
 
-🔄 Process:
+## 🎯 Project Objectives
 
-1. KPI Development:
+- Analyze passenger traffic and identify monthly travel trends across airlines.
+- Compare airline performance based on passenger volume and customer ratings.
+- Evaluate operational metrics such as passenger capacity, fuel efficiency, CO₂ emissions, and average flight duration.
+- Analyze estimated profit contribution and identify leading airlines.
+- Develop an interactive dashboard to support data-driven performance evaluation.
 
-Designed key performance indicators to track total passengers, passenger capacity, CO₂ emissions per passenger, fuel efficiency, average flight duration, and estimated profit.
+## 🛠️ Tools & Technologies
 
-2. Data Visualization & Dashboard Development:
+- **Power BI:** Dashboard development and data visualization.
+- **DAX:** Calculated measures, KPIs, and dynamic calculations.
+- **Power Query:** Data cleaning and transformation.
+- **Data Modeling:** Organizing data for interactive analysis.
+- **Excel:** Dataset preparation and management.
 
-Created interactive airline navigation and slicers for airline, route, and destination-based analysis.
+## 📊 Dashboard Features
 
-Developed visualizations including monthly passenger trends, airline-wise passenger comparisons, customer rating analysis, and profit distribution.
+### 1. Interactive Airline Navigation
+- Airline selection through an interactive navigation slicer.
+- Dynamic aircraft images that change based on the selected airline.
+- Route and destination city filters for focused analysis.
 
-Implemented dynamic aircraft images that change based on the selected airline.
+### 2. Key Performance Indicators (KPIs)
+- Total Passengers
+- Passenger Capacity
+- CO₂ Emissions per Passenger
+- Fuel Efficiency
+- Average Flight Duration
 
-Used DAX measures and interactive filtering to enable seamless cross-analysis.
+### 3. Airline Ratings Analysis
+- Compares customer ratings across five major airlines.
+- Provides a visual representation of customer satisfaction.
+- Identifies airlines with higher and lower average ratings.
 
-💡 Key Insights:
+### 4. Monthly Passenger Trend
+- Tracks monthly passenger traffic.
+- Highlights seasonal fluctuations and peak travel months.
+- Helps understand changes in passenger demand over time.
 
-Air India and IndiGo recorded the highest passenger volumes, with approximately 1.89M and 1.99M passengers, respectively.
+### 5. Passenger Comparison
+- Compares total passenger volume across airlines.
+- Identifies leading airlines based on passenger traffic.
 
-Air India contributed approximately 61.6% of the total estimated profit, highlighting its significant share.
+### 6. Estimated Profitability Analysis
+- Visualizes estimated profit contribution by airline.
+- Highlights each airline's percentage share of total estimated profit.
+- Enables comparative financial performance analysis.
 
-Customer ratings showed IndiGo and Air India leading with 4.1/5, followed by Akasa Air (4.0), Star Air (3.8), and SpiceJet (3.6).
+## 💡 Key Insights & Findings
 
-Monthly passenger trends revealed fluctuations in traffic, with passenger volumes peaking during April and May.
+Based on the dashboard analysis:
 
-📊 Conclusion:
+- **Passenger Traffic:** IndiGo recorded approximately 1.99M passengers, followed by Air India with 1.89M passengers.
+- **Profit Contribution:** Air India accounted for approximately 61.6% of the total estimated profit, representing the largest share.
+- **Customer Satisfaction:** IndiGo and Air India achieved the highest customer ratings at 4.1/5.
+- **Airline Ratings:** Akasa Air scored 4.0, Star Air 3.8, and SpiceJet 3.6.
+- **Monthly Trends:** Passenger traffic peaked during April and May, indicating higher travel activity during these months.
 
-Transformed airline performance data into an interactive business intelligence dashboard, enabling comparative analysis of passenger trends, operational efficiency, customer satisfaction, and profitability. The dashboard demonstrates how data visualization and analytical insights can support performance monitoring and informed business decisions.
+## 📈 Business Conclusions
 
-Tools & Technologies: Power BI | DAX | Power Query | Data Modeling | Data Visualization
+The analysis highlights differences in passenger demand, customer satisfaction, operational performance, and estimated profitability across Indian airlines.
+
+Key takeaways include:
+
+- Passenger volume alone does not determine an airline's profitability.
+- Customer ratings provide an additional perspective for evaluating airline performance.
+- Monthly passenger trends can help identify demand patterns and support operational planning.
+- Comparing operational and financial KPIs enables a more comprehensive understanding of airline performance.
+
+The dashboard provides a consolidated view of airline performance, helping stakeholders monitor key metrics, identify trends, and make informed business decisions.
+
